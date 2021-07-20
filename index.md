@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://truongdzvcl.github.io/Membership_Garena/) and ![Image](src)
+[Link](https://truongdzvcl.github.io/Membership_Garena/) and ![](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
